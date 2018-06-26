@@ -78,6 +78,7 @@
 		<!--<amps.version>6.2.1</amps.version> -->
 		<!--<amps.version>6.2.9</amps.version> -->
 		<amps.version>6.3.10</amps.version>
+		<testkit.version>6.3.11</testkit.version>
 		<slf4j.version>1.6.4</slf4j.version>
 		<jgit.version>4.0.3.201509231615-r</jgit.version>
 	</properties>
